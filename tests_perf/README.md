@@ -28,6 +28,7 @@ Provided by `asv.conf.json` file.
 
 
 #### Running
+##### Activate enviroment base.
 ##### Install Airspeed Velocity in Anaconda Prompt:
 `conda install -c conda-forge asv`
 
